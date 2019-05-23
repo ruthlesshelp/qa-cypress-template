@@ -3,7 +3,7 @@ QA automated testing template project using Cypress.io
 
 ### How do I use this template?
 
-- Fork your own copy of `ruthlesshelp/qa-cypress-template` to your own account
+- Fork your own copy of `ruthlesshelp/qa-cypress-template` to your account
   - Or clone this repo locally
 - Navigate to the `qa-cypress-template` folder
 - Run `nvm use` command
