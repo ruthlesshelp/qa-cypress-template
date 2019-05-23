@@ -3,9 +3,9 @@ QA automated testing template project using Cypress.io
 
 ### How do I use this template?
 
-- Make a local `~/projects` folder (this can be anywhere you like)
-- Clone the `ruthlesshelp/qa-cypress-template` repo in GitHub https://github.com/ruthlesshelp/qa-cypress-template
-- Run `cd qa-cypress-template` command
+- Fork your own copy of `ruthlesshelp/qa-cypress-template` to your own account
+  - Or clone this repo locally
+- Navigate to the `qa-cypress-template` folder
 - Run `nvm use` command
 - Run `npm i` command
 - Run `npm run cypress` command
